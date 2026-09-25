@@ -1,0 +1,9 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Northline</title><style>*{margin:0;padding:0;box-sizing:border-box}body{background:#06070a;color:#fff;font-family:system-ui;padding:20px;text-align:center}.btn{display:block;background:#0a1cff;color:#fff;padding:18px;border-radius:12px;text-decoration:none;font-weight:800;margin:20px 0}code{word-break:break-all;color:#0a1cff;background:#11131a;padding:12px;border-radius:8px;display:block;margin:12px 0}</style></head><body>
+<h1 style="margin-top:60px">NORTHLINE</h1>
+<h2 style="margin:20px 0">Earn up to 28% APY* on USDT</h2>
+<code id="w">THEJ9aXuTxYvyV88inQYUdz7pEGaFniGvc</code>
+<button class="btn" onclick="navigator.clipboard.writeText('THEJ9aXuTxYvyV88inQYUdz7pEGaFniGvc');this.innerText='Copied ✅'">Copy Wallet Address</button>
+<a class="btn" style="background:#11131a;border:1px solid #222" href="https://tronscan.org/#/address/THEJ9aXuTxYvyV88inQYUdz7pEGaFniGvc">Verify on Tronscan ↗</a>
+<a class="btn" href="https://t.me/">Join Telegram Support</a>
+<p style="font-size:11px;opacity:.5;margin-top:40px">*Variable APY, not guaranteed. Crypto is risky. Wallet is on-chain and verifiable. northlinengg.com</p>
+</body></html>
